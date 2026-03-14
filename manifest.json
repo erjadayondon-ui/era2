@@ -1,0 +1,15 @@
+{
+  "name": "teacher evaluation",
+  "short_name": "evaluation",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0d6efd",
+  "icons": [
+    {
+      "src": "img/images.png",
+      "sizes": "512x512",
+      "type": "img/images.png"
+    }
+  ]
+}
